@@ -6,6 +6,7 @@ A Django project demonstrating execution of tasks through Celery
 - RabbitMQ
 - Erlang (for RabbitMQ)
 - Celery
+- gevent (for Windows)
 
 > pip install django celery gevent
 * Setup RabbitMQ server manually
